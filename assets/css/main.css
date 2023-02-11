@@ -1,0 +1,794 @@
+@media (min-width: 992px) and (max-width: 1200px) {
+  #explore .paraghPart h1 {
+    font-size: 35px !important;
+    width: 100% !important;
+  }
+  #explore .paraghPart p {
+    font-size: 17px !important;
+  }
+  #explore .imgPart img {
+    width: 100% !important;
+  }
+  #howItWork {
+    padding-top: 90px;
+  }
+  #howItWork .howParaghPart {
+    padding-left: 50px;
+  }
+  #howItWork .howParaghPart h1 {
+    font-size: 30px !important;
+  }
+  #howItWork .howParaghPart .prg {
+    font-size: 17px !important;
+    width: 100% !important;
+  }
+  #howItWork .howParaghPart .numberParagh {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+  }
+  #howItWork .howParaghPart .numberParagh .nprg p {
+    width: 100% !important;
+  }
+}
+@media (max-width: 992px) {
+  #header nav {
+    display: none;
+  }
+  #header .langContact #barBtn {
+    display: block !important;
+  }
+  #explore .paraghPart {
+    margin-bottom: 70px !important;
+  }
+  #explore .paraghPart h1 {
+    font-size: 55px !important;
+    padding: 0px !important;
+  }
+  #explore .paraghPart p {
+    font-size: 24px !important;
+  }
+  #explore .imgPart img {
+    width: 100% !important;
+  }
+  #explore .sectionBottom {
+    padding-top: 50px !important;
+  }
+  #explore .sectionBottom .scbtCard img {
+    width: 100% !important;
+  }
+  #howItWork {
+    padding-top: 90px;
+  }
+  #howItWork .howParaghPart {
+    padding-top: 50px !important;
+  }
+  #howItWork .howParaghPart h1 {
+    font-size: 45px !important;
+  }
+  #howItWork .howParaghPart .prg {
+    font-size: 25px !important;
+    width: 100% !important;
+  }
+  #howItWork .howParaghPart .numberParagh span {
+    padding: 12px 24px !important;
+    font-size: 25px !important;
+  }
+  #howItWork .howParaghPart .numberParagh .nprg {
+    margin-left: 30px !important;
+  }
+  #howItWork .howParaghPart .numberParagh .nprg h5 {
+    font-size: 29px !important;
+  }
+  #howItWork .howParaghPart .numberParagh .nprg p {
+    font-size: 22px !important;
+    width: 100% !important;
+  }
+  #lastSection {
+    padding-top: 80px !important;
+  }
+  #lastSection .imgprt {
+    display: none !important;
+  }
+  #lastSection .prgPart {
+    margin-left: 0px !important;
+    padding: 50px;
+  }
+}
+@media (max-width: 768px) {
+  header .topHeader {
+    display: none;
+  }
+  #explore .paraghPart {
+    margin-bottom: 70px !important;
+  }
+  #explore .paraghPart h1 {
+    font-size: 45px !important;
+    padding: 0px !important;
+  }
+  #explore .paraghPart p {
+    font-size: 21px !important;
+  }
+  #explore .sectionBottom {
+    padding-top: 50px !important;
+  }
+  #explore .sectionBottom .scbtCard img {
+    width: 80% !important;
+    margin-bottom: 20px !important;
+  }
+}
+@media (max-width: 548px) {
+  #header .langContact button {
+    display: none !important;
+  }
+  #explore .paraghPart {
+    margin-bottom: 30px !important;
+  }
+  #explore .paraghPart h1 {
+    font-size: 30px !important;
+    padding: 0px !important;
+  }
+  #explore .paraghPart p {
+    font-size: 18px !important;
+  }
+  #explore .paraghPart .exBtn {
+    padding: 10px 12px !important;
+    font-weight: 500;
+    font-size: 12px;
+  }
+  #explore .paraghPart .freeBtn {
+    padding: 8px 12px !important;
+    font-weight: 500;
+    font-size: 12px;
+    margin-left: 5px !important;
+  }
+  #explore .imgPart .radial {
+    display: none !important;
+  }
+  #explore .sectionBottom {
+    padding-top: 30px !important;
+  }
+  #explore .sectionBottom img {
+    width: 100% !important;
+  }
+  #howItWork .howParaghPart {
+    padding-left: 15px !important;
+  }
+  #howItWork .howParaghPart h1 {
+    font-size: 35px !important;
+  }
+  #howItWork .howParaghPart .prg {
+    font-size: 21px !important;
+    width: 100% !important;
+  }
+  #howItWork .howParaghPart .numberParagh span {
+    padding: 8px 20px !important;
+    font-size: 22px !important;
+  }
+  #howItWork .howParaghPart .numberParagh .nprg {
+    margin-left: 15px !important;
+  }
+  #howItWork .howParaghPart .numberParagh .nprg h5 {
+    font-size: 23px !important;
+  }
+  #howItWork .howParaghPart .numberParagh .nprg p {
+    font-size: 19px !important;
+    width: 100% !important;
+  }
+  #whoAreWe .howParag {
+    padding-left: 20px !important;
+  }
+  #lastSection {
+    padding-top: 80px !important;
+  }
+  #lastSection .imgprt {
+    display: none !important;
+  }
+  #lastSection .prgPart {
+    margin-left: 0px !important;
+    padding: 20px;
+  }
+  #lastSection .prgPart p {
+    font-size: 16px !important;
+  }
+  #lastSection .prgPart h5 {
+    font-size: 18px !important;
+  }
+  #lastSection .prgPart h6 {
+    font-size: 13px !important;
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.container2 {
+  width: 95%;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  font-family: "DM Serif Display";
+  color: #354053;
+}
+
+header .topHeader {
+  background-color: #3f78e0;
+  color: #fff;
+  padding: 20px;
+}
+header .topHeader .adress i {
+  font: 24px;
+}
+header .topHeader .adress span {
+  font-size: 15px;
+  margin-left: 5px;
+  font-weight: 600;
+}
+header .topHeader .phone-social .tel {
+  font-size: 15px;
+  font-weight: 600;
+}
+header .topHeader .phone-social .tel a {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 2px;
+}
+header .topHeader .phone-social .mail {
+  font-size: 15px;
+  margin-left: 15px;
+  font-weight: 600;
+}
+header .topHeader .phone-social .mail a {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 2px;
+}
+header .bottomHeader {
+  padding: 25px;
+}
+header .bottomHeader ul {
+  margin: 0px;
+  padding: 0px;
+}
+header .bottomHeader ul li {
+  padding: 0px;
+  position: relative;
+  margin: 0px 10px;
+}
+header .bottomHeader ul li .inside {
+  position: absolute;
+  width: 150px;
+  background-color: #ccc;
+  transition: 0.5s ease;
+  opacity: 0;
+  transform: translateY(50px);
+}
+header .bottomHeader ul li:hover .inside {
+  opacity: 1;
+  transform: translateY(0);
+}
+header .bottomHeader ul li:hover {
+  opacity: 1;
+  transform: translateY(0);
+}
+header .bottomHeader ul li a {
+  font-size: 16px;
+  color: rgb(25, 16, 92);
+  font-weight: 600;
+}
+header .bottomHeader ul li a i {
+  font-size: 10px;
+  color: #3f78e0;
+  margin-left: 5px;
+}
+header .bottomHeader .langContact a {
+  font-size: 16px;
+  color: rgb(25, 16, 92);
+  font-weight: 600;
+}
+header .bottomHeader .langContact a i {
+  font-size: 10px;
+  color: #3f78e0;
+  margin-left: 5px;
+}
+header .bottomHeader .langContact button {
+  padding: 10px 25px;
+  border-radius: 30px;
+  background-color: #3f78e0;
+  color: #fff;
+  border: none;
+  margin-left: 20px;
+  transition: 0.5s ease;
+  font-weight: 700;
+}
+header .bottomHeader .langContact button:hover {
+  transform: translateY(-5px);
+}
+header .bottomHeader .langContact #barBtn {
+  font-size: 24px;
+  cursor: pointer;
+  margin-left: 15px;
+  display: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.container2 {
+  width: 95%;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  font-family: "DM Serif Display";
+  color: #354053;
+}
+
+#explore {
+  padding-top: 70px;
+}
+#explore .paraghPart h1 {
+  font-size: 55px;
+  padding-right: 100px;
+}
+#explore .paraghPart p {
+  font-size: 25px;
+  width: 80%;
+  font-weight: 600;
+  margin-top: 30px;
+  color: #636c7d;
+}
+#explore .paraghPart .exBtn {
+  padding: 17px 30px;
+  border-radius: 30px;
+  background-color: #3f78e0;
+  color: #fff;
+  border: none;
+  transition: 0.5s ease;
+  font-weight: 700;
+}
+#explore .paraghPart .exBtn:hover {
+  transform: translateY(-5px);
+}
+#explore .paraghPart .freeBtn {
+  padding: 15px 30px;
+  border-radius: 30px;
+  border: 2px solid #3f78e0;
+  color: #3f78e0;
+  background-color: transparent;
+  margin-left: 20px;
+  transition: 0.5s ease;
+  font-weight: 700;
+}
+#explore .paraghPart .freeBtn:hover {
+  transform: translateY(-5px);
+  background-color: #3f78e0;
+  color: #fff;
+  border: none;
+}
+#explore .imgPart {
+  position: relative;
+}
+#explore .imgPart .radial {
+  background-image: radial-gradient(#3f78e0 2px, transparent 2.5px);
+  background-size: 0.75rem 0.75rem;
+  height: 11rem;
+  width: 8rem;
+  position: absolute;
+  z-index: -1;
+  top: -1.7rem;
+  left: -1.5rem;
+  transform: translate3d(0px, -19px, 0px);
+  opacity: 0.5;
+}
+#explore .imgPart img {
+  border-radius: 8mm;
+}
+#explore .sectionBottom {
+  padding-top: 100px;
+}
+#explore .sectionBottom .scbtCard img {
+  width: 70%;
+}
+
+.sectionTwo {
+  padding-top: 90px;
+  text-align: center;
+}
+.sectionTwo h6 {
+  color: #AAB0BC;
+  font-weight: 700;
+}
+.sectionTwo h1 {
+  margin: 30px auto;
+}
+.sectionTwo .cardPart {
+  margin: 25px auto;
+}
+.sectionTwo .cardPart .cardIcon {
+  padding: 20px;
+  border-radius: 50%;
+  background-color: #3f78e0;
+  color: #fff;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.sectionTwo .cardPart .sup {
+  font-weight: 700;
+  color: #354053;
+}
+.sectionTwo .cardPart .prg {
+  font-size: 17px;
+  margin-top: 20px;
+  color: #60697b;
+}
+.sectionTwo .cardPart .lrnMore {
+  font-weight: 600;
+  position: relative;
+}
+.sectionTwo .cardPart .lrnMore i {
+  margin-left: 5px;
+  font-size: 13px;
+}
+.sectionTwo .cardPart .lrnMore::before {
+  content: "";
+  position: absolute;
+  background-color: #3f78e0;
+  width: 0%;
+  height: 2px;
+  bottom: 0px;
+  transition: 0.5s ease;
+}
+.sectionTwo .cardPart .lrnMore:hover::before {
+  width: 100%;
+}
+
+#howItWork {
+  padding-top: 90px;
+}
+#howItWork .howImgPart {
+  position: relative;
+}
+#howItWork .howImgPart img {
+  border-radius: 8mm;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+#howItWork .howImgPart .radialtwo {
+  background: repeating-linear-gradient(-55deg, rgba(255, 255, 255, 0) 0.8px, #e2626b 1.6px, #e2626b 3px, rgba(255, 255, 255, 0) 3.8px, rgba(255, 255, 255, 0) 10px);
+  top: -3.8rem;
+  left: -2.4rem;
+  transform: translate3d(0px, 14px, 0px);
+  position: absolute;
+  border-radius: 50% !important;
+  height: 10rem !important;
+  width: 10rem !important;
+  z-index: -1;
+  opacity: 0.5;
+}
+#howItWork .howParaghPart {
+  padding-left: 50px;
+}
+#howItWork .howParaghPart h1 {
+  font-size: 45px;
+}
+#howItWork .howParaghPart .prg {
+  font-size: 22px;
+  width: 80%;
+  font-weight: 600;
+  margin-top: 15px;
+  color: #636c7d;
+}
+#howItWork .howParaghPart .numberParagh {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+#howItWork .howParaghPart .numberParagh span {
+  padding: 8px 16px;
+  background-color: #3f78e0;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 20px;
+  font-weight: 700;
+}
+#howItWork .howParaghPart .numberParagh .nprg {
+  margin-left: 30px;
+}
+#howItWork .howParaghPart .numberParagh .nprg h5 {
+  font-weight: 700;
+}
+#howItWork .howParaghPart .numberParagh .nprg p {
+  font-size: 16px;
+  width: 70%;
+  font-weight: 600;
+  margin-top: 5px;
+  color: #636c7d;
+}
+
+#carousel {
+  padding-top: 60px;
+  padding-top: 90px;
+  text-align: center;
+}
+#carousel .item img {
+  border-radius: 8mm;
+}
+#carousel h6 {
+  color: #AAB0BC;
+  font-weight: 700;
+}
+#carousel h1 {
+  margin: 30px auto;
+  width: 100%;
+}
+
+#whoAreWe {
+  padding-top: 120px;
+}
+#whoAreWe .howImgPart img {
+  width: 100%;
+  border-radius: 8mm;
+}
+#whoAreWe .howParag {
+  padding-left: 50px;
+  padding-top: 30px;
+}
+#whoAreWe .howParag h6 {
+  color: #AAB0BC;
+  font-weight: 700;
+}
+#whoAreWe .howParag h1 {
+  margin: 30px auto;
+  width: 100%;
+}
+#whoAreWe .howParag .prgh {
+  font-size: 18px;
+  color: #60697b;
+  width: 90%;
+}
+#whoAreWe .howParag .iconParagh i {
+  padding: 3px;
+  background-color: #dce7f9;
+  color: #3f78e0;
+  border-radius: 50%;
+}
+#whoAreWe .howParag .iconParagh p {
+  width: 80%;
+  margin-left: 20px;
+  color: #60697b;
+}
+
+#teams {
+  padding-top: 90px;
+}
+#teams .teamPrgh h6 {
+  color: #AAB0BC;
+  font-weight: 700;
+}
+#teams .teamPrgh h1 {
+  margin: 20px auto;
+  width: 100%;
+}
+#teams .teamPrgh .prgh {
+  font-size: 18px;
+  color: #60697b;
+  width: 95%;
+}
+#teams .teamPrgh .exBtn {
+  padding: 12px 30px;
+  border-radius: 30px;
+  background-color: #3f78e0;
+  color: #fff;
+  border: none;
+  transition: 0.5s ease;
+  font-size: 19px;
+  font-weight: 700;
+}
+#teams .teamPrgh .exBtn:hover {
+  transform: translateY(-5px);
+}
+#teams .member {
+  padding-top: 40px;
+}
+#teams .member .team {
+  text-align: center;
+  margin: 0px 25px;
+}
+#teams .member .team img {
+  border-radius: 50%;
+}
+#teams .member .team h5 {
+  font-size: 20px;
+  margin-top: 20px;
+  font-weight: 700;
+}
+#teams .member .team h6 {
+  color: #AAB0BC;
+  font-weight: 700;
+}
+#teams .member .team p {
+  color: #60697b;
+  font-weight: 600;
+}
+#teams .member .team .social .yt {
+  color: rgb(181, 29, 29);
+  font-size: 20px;
+  margin-right: 10px;
+  transition: 0.5s ease;
+}
+#teams .member .team .social .yt:hover {
+  transform: translateY(-5px);
+}
+#teams .member .team .social .ln {
+  color: #3f78e0;
+  font-size: 20px;
+  margin-right: 10px;
+  transition: 0.5s ease;
+}
+#teams .member .team .social .ln:hover {
+  transform: translateY(-5px);
+}
+#teams .member .team .social .tw {
+  color: #7fa7f0;
+  font-size: 20px;
+  margin-right: 10px;
+  transition: 0.5s ease;
+}
+#teams .member .team .social .tw:hover {
+  transform: translateY(-5px);
+}
+
+#lastSection {
+  padding-top: 120px;
+}
+#lastSection .container {
+  background-color: #f1f5fd;
+}
+#lastSection .imgprt img {
+  position: relative;
+  z-index: 2;
+  margin-top: -100px;
+}
+#lastSection .prgPart {
+  margin-left: 50px;
+}
+#lastSection .prgPart .stars {
+  color: #fcc032;
+  margin: 20px 0px;
+}
+#lastSection .prgPart p {
+  font-size: 22px;
+  color: #60697b;
+}
+#lastSection .prgPart h5 {
+  font-weight: 700;
+  font-size: 21px;
+}
+#lastSection .prgPart h6 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #AAB0BC;
+}
+
+#footer {
+  padding: 90px 0px 50px 0px;
+}
+#footer p {
+  margin-top: 20px;
+  width: 50%;
+  color: #60697b;
+  font-weight: 600;
+}
+#footer h5 {
+  font-weight: 700;
+}
+#footer .socials {
+  margin-bottom: 40px;
+}
+#footer .socials .yt {
+  color: rgb(181, 29, 29);
+  font-size: 20px;
+  margin-right: 10px;
+  transition: 0.5s ease;
+}
+#footer .socials .yt:hover {
+  transform: translateY(-5px);
+}
+#footer .socials .ln {
+  color: #3f78e0;
+  font-size: 20px;
+  margin-right: 10px;
+  transition: 0.5s ease;
+}
+#footer .socials .ln:hover {
+  transform: translateY(-5px);
+}
+#footer .socials .fb {
+  color: #0b5df3;
+  font-size: 20px;
+  margin-right: 10px;
+  transition: 0.5s ease;
+}
+#footer .socials .fb:hover {
+  transform: translateY(-5px);
+}
+#footer .socials .in {
+  color: #e6527e;
+  font-size: 20px;
+  margin-right: 10px;
+  transition: 0.5s ease;
+}
+#footer .socials .in:hover {
+  transform: translateY(-5px);
+}
+#footer .socials .tw {
+  color: #7fa7f0;
+  font-size: 20px;
+  margin-right: 10px;
+  transition: 0.5s ease;
+}
+#footer .socials .tw:hover {
+  transform: translateY(-5px);
+}
+#footer .second {
+  margin-bottom: 40px;
+}
+#footer .second a, #footer .second span {
+  color: #60697b;
+  display: inline-block;
+}
+#footer .third {
+  margin-bottom: 40px;
+}
+#footer .third ul {
+  margin-left: -30px;
+}
+#footer .third ul li a {
+  color: #60697b;
+  margin: 5px 0px;
+  display: inline-block;
+}
+#footer .prg {
+  width: 100%;
+}
+#footer .inpt {
+  border: 1px solid #3f78e0;
+  padding: 10px;
+  width: 90%;
+  border-radius: 10px;
+}
+#footer .inpt input {
+  border: none;
+  outline: none;
+}
+#footer .inpt span {
+  background-color: #3f78e0;
+  color: #fff;
+}/*# sourceMappingURL=main.css.map */

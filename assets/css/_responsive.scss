@@ -1,0 +1,252 @@
+@media (min-width:992px)and (max-width:1200px){
+    #explore{
+        .paraghPart{
+            h1{
+                font-size: 35px !important;
+                width: 100% !important;
+            }
+            p{
+                font-size: 17px !important;
+            }
+        }
+        .imgPart{
+            img{
+                width: 100% !important;
+            }
+        }
+    }
+    #howItWork{
+        padding-top: 90px;
+        .howParaghPart{
+            padding-left: 50px;
+            h1{
+                font-size: 30px !important;
+            }
+            .prg{
+                font-size: 17px !important;
+                width: 100% !important;
+            }
+            .numberParagh{
+                margin-top: 10px !important;
+                margin-bottom: 10px !important;
+                .nprg{
+                    p{
+                        width: 100% !important;
+                    }
+                }
+            }
+    
+        }
+    }
+
+}
+
+@media (max-width:992px) {
+  #header{
+    nav{
+        display: none;
+    }
+    .langContact{
+        #barBtn{
+            display: block !important;
+        }
+    } 
+  }
+    #explore{
+        .paraghPart{
+            margin-bottom: 70px !important;
+            h1{
+                font-size: 55px !important;
+                padding: 0px !important;
+            }
+            p{
+                font-size: 24px !important;
+            }
+        }
+        .imgPart{
+            img{
+                width: 100% !important;
+            }
+        }
+        .sectionBottom{
+            padding-top: 50px !important;
+            .scbtCard{
+            img{
+              width: 100% !important;
+            }
+            }
+           }
+    }
+    #howItWork{
+        padding-top: 90px;
+        .howParaghPart{
+            padding-top: 50px !important;
+            h1{
+                font-size: 45px !important;
+            }
+            .prg{
+                font-size: 25px !important;
+                width: 100% !important;
+            }
+            .numberParagh{
+                span{
+                    padding: 12px 24px !important;
+                    font-size: 25px !important;
+                }
+                .nprg{
+                    margin-left: 30px !important;
+                    h5{
+                        font-size: 29px !important;
+                    }
+                    p{
+                        font-size: 22px !important;
+                        width: 100% !important;
+                    }
+                }
+            }
+    
+        }
+    }
+    #lastSection{
+        padding-top: 80px !important;
+        .imgprt{
+            display: none !important;
+        }
+        .prgPart{
+            margin-left: 0px !important;
+            padding: 50px;
+        }
+    }
+
+
+}
+
+@media(max-width:768px){
+    header{
+        .topHeader{
+            display: none;
+        }
+    }
+    #explore{
+        .paraghPart{
+            margin-bottom: 70px !important;
+            h1{
+                font-size: 45px !important;
+                padding: 0px !important;
+            }
+            p{
+                font-size: 21px !important;
+            }
+        }
+
+        .sectionBottom{
+            padding-top:50px !important;
+            .scbtCard{
+            img{
+              width: 80% !important;
+              margin-bottom: 20px !important;
+            }
+            }
+           }
+    }
+}
+
+@media (max-width:548px) {
+  #header{
+    .langContact{
+        button{
+          display: none !important;
+        }
+      }   
+  }
+  #explore{
+    .paraghPart{
+        margin-bottom: 30px !important;
+        h1{
+            font-size: 30px !important;
+            padding: 0px !important;
+        }
+        p{
+            font-size: 18px !important;
+        }
+        .exBtn{
+            padding: 10px 12px !important;
+            font-weight: 500;
+            font-size: 12px;
+        }
+        .freeBtn{
+            padding: 8px 12px !important;
+            font-weight: 500;
+            font-size: 12px;
+            margin-left: 5px !important;
+        }
+    }
+    .imgPart{
+       .radial{
+        display: none !important;
+       }
+    }
+    .sectionBottom{
+        padding-top: 30px !important;
+        img{
+            width: 100% !important;
+          }
+       }
+}
+
+#howItWork{
+    .howParaghPart{
+        padding-left: 15px !important;
+        h1{
+            font-size: 35px !important;
+        }
+        .prg{
+            font-size: 21px !important;
+            width: 100% !important;
+        }
+        .numberParagh{
+            span{
+                padding: 8px 20px !important;
+                font-size: 22px !important;
+            }
+            .nprg{
+                margin-left: 15px !important;
+                h5{
+                    font-size: 23px !important;
+                }
+                p{
+                    font-size: 19px !important;
+                    width: 100% !important;
+                }
+            }
+        }
+
+    }
+}
+#whoAreWe{
+    .howParag{
+        padding-left: 20px !important;
+    }
+
+}
+
+#lastSection{
+    padding-top: 80px !important;
+    .imgprt{
+        display: none !important;
+    }
+    .prgPart{
+        margin-left: 0px !important;
+        padding: 20px;
+        p{
+            font-size: 16px !important;
+        }
+        h5{
+            font-size: 18px !important;
+        }
+        h6{
+            font-size: 13px !important;
+        }
+    }
+}
+}

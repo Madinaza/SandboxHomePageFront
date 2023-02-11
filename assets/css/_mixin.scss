@@ -1,0 +1,5 @@
+@mixin headerTop{
+    transition: .5s ease;
+                    opacity: 0;
+                    transform: translateY(50px); 
+}
